@@ -4,8 +4,8 @@ consectetuer adipiscing elit.
 commodo ligula eget dolor.  
 massa.  
 =======
-Arandom lettersenean commodo ligula eget dolor.  
-Aenrandom lettersean massa.  
+lettersenean commodo ligula eget dolor.  
+lettersean massa.  
 >>>>>>> 405234c7f3126c27e5dcf360be0a2cc0923ef947
 Cum sociis natoque penatibus WORD et magnis dis parturient montes,  
 nascetur ridiculus mus.  
