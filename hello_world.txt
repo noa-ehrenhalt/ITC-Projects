@@ -1,7 +1,7 @@
 Lorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
-Arandom lettersenean commodo ligula eget dolor.  
-Aenrandom lettersean massa.  
+lettersenean commodo ligula eget dolor.
+lettersean massa.
 Cum sociis natoque penatibus WORD et magnis dis parturient montes,  
 nascetur ridiculus mus.  
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
